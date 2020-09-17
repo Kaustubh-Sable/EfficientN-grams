@@ -15,7 +15,7 @@ I.	Original source for the code base.
 
 
 II. 
-	HMM_Model.ipynb : Implemented methods to train and evaluate the model with the baeline model.
+	HMM_Model.ipynb : Implemented methods to train and evaluate the model with the baseline model.
 	
 	backoff_model.ipynb : Code to train the model was referred from the medium blog. Implemented own methods to preprocess the data and evaluate the predictions made by the
 						  model with our baseline model.
